@@ -1,0 +1,14 @@
+{
+  "mode": "EN-EN",
+  "whisper_model": "medium",
+  "input_device": 1,
+  "output_device": 7,
+  "tts_backend": "sapi5",
+  "sapi5_voice": "IVONA 2 Maxim OEM - Russian male voice [22kHz]",
+  "piper_exe": "C:\\Users\\tonip\\Desktop\\STT TTS\\piper\\piper\\piper.exe",
+  "piper_model_ru": "C:\\Users\\tonip\\Desktop\\STT TTS\\piper_models\\ru_RU-denis-medium.onnx",
+  "piper_model_en": "",
+  "rate": 0,
+  "volume": 100,
+  "repeat_hotkey": "f16"
+}
