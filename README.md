@@ -164,9 +164,4 @@ config.json                    persisted settings (created on first run)
 macros.json                     saved macros (created on first run)
 ```
 
-## Roadmap
 
-ESP32-S3 macropad (mechanical keys, OLED, RGB, USB HID) as a standalone device
-emulating the same hotkeys. Per-game macro profiles. Voice effects layered on top of
-TTS output (robot, radio, metallic). Optional full pipeline offload to a Raspberry Pi 4
-as a standalone external module.
